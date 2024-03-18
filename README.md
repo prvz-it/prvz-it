@@ -1,4 +1,4 @@
-![Frontend Developer (React JS)](https://github.com/prvz-it/prvz-it/blob/main/rsz_1green_doodles_presentation_template_2.png?raw=true)
+![Frontend Developer (React JS)](https://github.com/prvz-it/prvz-it/blob/main/Colorful%20Shapes%20Header%20Banner.png)
 
 ## Hi 👋 I'm MH_Parvez
 ### Frontend Developer (React JS)
