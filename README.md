@@ -10,5 +10,4 @@ Let's connect and embark on a journey to elevate your digital presence through t
 
 #### Skills: REACTJS / JAVASCRIPT / HTML / CSS
 
-![prvz-it's Stats](https://github-readme-stats.vercel.app/api?username=prvz-it&theme=default&show_icons=true&hide_border=false&count_private=false)  
-![Frontend Developer (React JS)](https://github.com/prvz-it/prvz-it/blob/main/Colorful%20Shapes%20Header%20Banner.png)
+![prvz-it's Stats](https://github-readme-stats.vercel.app/api?username=prvz-it&theme=default&show_icons=true&hide_border=false&count_private=false)
